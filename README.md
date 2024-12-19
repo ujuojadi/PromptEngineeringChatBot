@@ -1,2 +1,2 @@
-# Hydraulics
-Fault diagnosis using convolutional  neural network and vibration image
+# ChatBot
+Prompt Engineering, RAG, Chroma DB for craetuing Virtual ChatBot for an e-commerce website
